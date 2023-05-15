@@ -21,14 +21,12 @@ The dataset used for this project is the [winequality-red.csv]
 
 
 ### Volatile Acidity VS Quality
-![volatile acidity vs Quality](https://github.com/Dhruvil5995/check_wine_quality/assets/64741151/9ed0ea5c-618b-48da-a986-e83911666985)
+![2023-05-15 (4)](https://github.com/Dhruvil5995/check_wine_quality/assets/64741151/aed1c8b6-4935-4588-ba3d-af385b99bed1)
 
 
 ### Citric Acid VS Quality
-![citric acid vs Quality](https://github.com/Dhruvil5995/check_wine_quality/assets/64741151/26283abc-0530-4ecf-8af7-f3dcdf59ffae)
+![2023-05-15 (5)](https://github.com/Dhruvil5995/check_wine_quality/assets/64741151/6ccbf8f0-3536-4ec8-b2d9-8927b5234ba7)
 
 
 ### Heatmap
-![heatmap](https://github.com/Dhruvil5995/check_wine_quality/assets/64741151/e405af1b-8ee0-4db8-9dc1-152d96adebef)
-
-
+![2023-05-15 (6)](https://github.com/Dhruvil5995/check_wine_quality/assets/64741151/1e84e258-72d4-431f-9e51-08b72dd772b9)
